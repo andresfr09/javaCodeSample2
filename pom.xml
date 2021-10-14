@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>co.edu.udem.tallerDevOps1</groupId>
-	<artifactId>Taller1</artifactId>
+	<artifactId>sampleServletsTallerDevOps4FUdem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Taller1</name>
+	<name>sampleServletsTallerDevOps4FUdem</name>
 	<description>Taller 1 devOps</description>
 	<properties>
 		<java.version>11</java.version>
