@@ -14,5 +14,3 @@ addons:
   rYxlvmMBY3t7lzuo4BThW3WPCTjyHh+YAySjywHSux7+UZERtbwGPTwOmPPzzdPDR5CDaLBE8e8m/mDENU6Udyec=
 script:
   - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar
-
-    travis encrypt
